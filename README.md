@@ -33,10 +33,7 @@
     ekanayakemili@gmail.com
   </p>
   
-  <p>
-    <img src="https://img.shields.io/badge/-Fun%20Fact-FF69B4?style=for-the-badge" alt="Fun Fact" />
-    Call Me Mili
-  </p>
+ 
 </div>
 
 <h2 align="center">🤝 Connect with Me</h2>
