@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Milinda+Ekanayake!;Welcome+to+my+GitHub!&center=true&size=30&color=3498db&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Milinda;Welcome+to+my+GitHub!&center=true&size=30&color=3498db&duration=4000&pause=1000">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Fullstack+Developer+from+Sri+Lanka&center=true&size=20&color=2ecc71">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Fullstack+Developer&center=true&size=20&color=2ecc71">
 </h3>
 
 <p align="center">
